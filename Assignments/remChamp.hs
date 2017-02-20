@@ -1,3 +1,2 @@
 remChamp :: [Int] -> [Int]
-remChamp [] = []
 
